@@ -1,0 +1,8 @@
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\bin\Release\netcoreapp3.1\SenhaConsole.deps.json
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\bin\Release\netcoreapp3.1\SenhaConsole.dll
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\bin\Release\netcoreapp3.1\SenhaConsole.pdb
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\obj\Release\netcoreapp3.1\SenhaConsole.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\obj\Release\netcoreapp3.1\SenhaConsole.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\obj\Release\netcoreapp3.1\SenhaConsole.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\obj\Release\netcoreapp3.1\SenhaConsole.dll
+C:\Users\mathe\OneDrive\Ferramentas\.NET Core\Console\SenhaConsole\SenhaConsole\obj\Release\netcoreapp3.1\SenhaConsole.pdb
